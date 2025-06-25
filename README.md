@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nini 👋</h1>
+<h1 align="center">Hi there, I'm Nini </h1>
 
 <p align="center">
   <i>iOS Developer | SwiftUI • UIKit • Interview Prep • UI/UX Design</i>
