@@ -24,7 +24,8 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourname) *(replace with your real link)*  
+- [LinkedIn](https://www.linkedin.com/in/nini-kurshavishvili-820178224/)
+- [Medium](https://medium.com/@nino.kurshavishvili.1)
 - [Behance](https://www.behance.net/ninikurshavishvili)  
 - 📧 ninikurshavishvili606@gmail.com
 
@@ -36,4 +37,3 @@
 
 ---
 
-> “Code is like poetry – clean, meaningful, and powerful.”
