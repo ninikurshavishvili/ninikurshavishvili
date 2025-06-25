@@ -8,10 +8,13 @@
 
 ### 🚀 About Me
 
-- 🎓 iOS Development student at TBC IT Academy  
-- 🎨 Also studying UI/UX Design at TBC Campus  
-- ✍️ Writing and organizing notes in [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit)  
-- 🧠 Passionate about building apps with clean, scalable architecture (MVC, MVVM, etc.)
+🎓 Completed iOS Development course at TBC IT Academy.
+🎨 Currently studying UI/UX Design at TBC Campus.
+🧠 Passionate about clean, scalable app architecture.
+✍️ Organizing everything I learn in my [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit).
+🤝 Open to collaboration with growing teams and exciting projects.
+
+
 
 ---
 
