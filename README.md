@@ -41,7 +41,9 @@
 
 ### 📊 GitHub Stats
 
-![Nini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninikurshavishvili&show_icons=true&theme=radical)
+
+![Nini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninikurshavishvili&show_icons=true&theme=radical&count_private=true)
+
 
 ---
 
