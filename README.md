@@ -12,9 +12,9 @@
 
  - Completed  UI/UX Design at TBC Campus.
 
-Passionate about clean, scalable app architecture.
+ - Passionate about clean, scalable app architecture.
 
-Organizing everything I learn in my [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit).
+ - Organizing everything I learn in my [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit).
 
 
 
