@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nini </h1>
 
 <p align="center">
-  <i>iOS Developer | SwiftUI • UIKit • Interview Prep • UI/UX Design</i>
+  <i>iOS Developer | SwiftUI • UIKit | UI/UX Mobile Design enthusiast </i>
 </p>
 
 ---
