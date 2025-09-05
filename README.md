@@ -26,7 +26,8 @@
 ### 💼 Current Projects
 
 - 📱 [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit) – Notes, examples & prep for iOS interviews  
-- 🧱 [BUILDY](https://github.com/ninikurshavishvili/BUILDY) – Construction app I contributed to during my internship  
+- 🧱 [BUILDY](https://github.com/ninikurshavishvili/BUILDY) – Construction app I contributed to during my internship
+- NextNFT 
 
 ---
 
