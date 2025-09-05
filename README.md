@@ -6,32 +6,29 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-🎓 Completed iOS Development course at TBC IT Academy.
+ - Completed iOS Development course at TBC IT Academy.
 
-🎨 Currently studying UI/UX Design at TBC Campus.
+ - Completed  UI/UX Design at TBC Campus.
 
-🧠 Passionate about clean, scalable app architecture.
+Passionate about clean, scalable app architecture.
 
-✍️ Organizing everything I learn in my [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit).
-
-🤝 Open to collaboration with growing teams and exciting projects.
-
+Organizing everything I learn in my [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit).
 
 
 
 ---
 
-### 💼 Current Projects
+### Working on Current Projects
 
-- 📱 [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit) – Notes, examples & prep for iOS interviews  
-- 🧱 [BUILDY](https://github.com/ninikurshavishvili/BUILDY) – Construction app I contributed to during my internship
+- [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit) – Notes, examples & prep for iOS interviews  
+- [BUILDY](https://github.com/ninikurshavishvili/BUILDY) – Construction app I contributed to during my internship
 - NextNFT 
 
 ---
 
-### 📫 Connect with Me
+###
 
 - [LinkedIn](https://www.linkedin.com/in/nini-kurshavishvili-820178224/)
 - [Medium](https://medium.com/@nino.kurshavishvili.1)
@@ -40,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 
 ![Nini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninikurshavishvili&show_icons=true&theme=radical&count_private=true&v=1)
