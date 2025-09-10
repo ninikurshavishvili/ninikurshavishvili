@@ -32,10 +32,13 @@
 
 ###
 
-- [LinkedIn](https://www.linkedin.com/in/nini-kurshavishvili-820178224/)
-- [Medium](https://medium.com/@nino.kurshavishvili.1)
-- [Behance](https://www.behance.net/ninikurshavishvili)  
-- 📧 ninikurshavishvili606@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nini-kurshavishvili-820178224/)
+
+[Medium](https://medium.com/@nino.kurshavishvili.1)
+  
+[Behance](https://www.behance.net/ninikurshavishvili)  
+   
+ ninikurshavishvili606@gmail.com
 
 ---
 
