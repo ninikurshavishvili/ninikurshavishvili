@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nini </h1>
+<h1 align="center">Nini kurshavishvili</h1>
 
 <p align="center">
   <i>iOS Developer | SwiftUI • UIKit | UI/UX Mobile Design enthusiast </i>
