@@ -1,7 +1,7 @@
 <h1 align="center">Nini kurshavishvili</h1>
 
 <p align="center">
-  <i>iOS Developer | SwiftUI • UIKit | UI/UX Mobile Design enthusiast </i>
+  <i>iOS Developer | SwiftUI • UIKit | UI/UX Mobile Design</i>
 </p>
 
 ---
@@ -12,9 +12,7 @@
 
  - Completed  UI/UX Design at TBC Campus.
 
- - Passionate about clean, scalable app architecture.
-
- - Organizing everything I learn in my [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit).
+ - Organizing everything I learn in [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit).
 
 
 
