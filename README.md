@@ -34,7 +34,7 @@
 
 [Medium](https://medium.com/@nino.kurshavishvili.1)
   
-[Behance](https://www.behance.net/ninikurshavishvili)  
+[Behance](https://www.behance.net/ninikurshav1)  
    
  ninikurshavishvili606@gmail.com
 
