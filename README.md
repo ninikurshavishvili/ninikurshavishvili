@@ -6,15 +6,12 @@
 
 ---
 
-### About Me
 
- - Completed iOS Development course at TBC IT Academy.
+Completed iOS Development course at TBC IT Academy.
 
- - Completed  UI/UX Design at TBC Campus.
+Completed  UI/UX Design at TBC Campus.
 
- - Organizing everything I learn in [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit).
-
-
+Organized everything I learn in [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit).
 
 ---
 
