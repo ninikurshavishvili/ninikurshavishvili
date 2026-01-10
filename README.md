@@ -25,6 +25,15 @@ Organized everything I learn in [Swift Interview Kit](https://github.com/ninikur
 
 ---
 
+
+### GitHub Stats
+
+
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninikurshavishvili&theme=radical)
+
+
+---
 ###
 
 [LinkedIn](https://www.linkedin.com/in/nini-kurshavishvili-820178224/)
@@ -35,19 +44,4 @@ Organized everything I learn in [Swift Interview Kit](https://github.com/ninikur
    
  ninikurshavishvili606@gmail.com
 
----
-
-### GitHub Stats
-
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninikurshavishvili&theme=radical)
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ninikurshavishvili&theme=radical)
-
-
-
-
----
 
