@@ -23,7 +23,9 @@ Organized everything I learn in [Swift Interview Kit](https://github.com/ninikur
 
 [NextNFT](https://github.com/ninikurshavishvili/NextNFT) - NFT App (in progress)
 
-[Crypto Portfolio App](https://github.com/ninikurshavishvili/MyCryptoApp.git)
+[Crypto Portfolio App](https://github.com/ninikurshavishvili/MyCryptoApp.git) - SwiftUI-based cryptocurrency portfolio application
+
+
 
 
 ---
