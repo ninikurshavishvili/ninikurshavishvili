@@ -22,6 +22,8 @@ Organized everything I learn in [Swift Interview Kit](https://github.com/ninikur
 [BUILDY](https://github.com/ninikurshavishvili/BUILDY) – Construction app I contributed to during my internship
 
 [NextNFT](https://github.com/ninikurshavishvili/NextNFT) - NFT App (in progress)
+[Crypto Portfolio App](https://github.com/ninikurshavishvili/MyCryptoApp.git)
+
 
 ---
 
