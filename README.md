@@ -14,7 +14,7 @@ Completed  UI/UX Design at TBC Campus.
 
 ---
 
-### Working on Current Projects
+### Projects
 
 [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit) – Notes, examples & prep for iOS interviews  
 
