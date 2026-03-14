@@ -1,7 +1,7 @@
 <h1 align="leading">Nini kurshavishvili</h1>
 
 <p align="leading">
-  <i>Hi, I'm a junior iOS developer, working on my own individual applications, using MVVM + clean architecture and Swift best practices. I'm open to work with teams on interesting projects. </i>
+  <i>Hi, I'm a junior iOS developer, working on my own individual applications, using MVVM + clean architecture and Swift best practices. I'm open to work with teams on interesting projects.. </i>
 </p>
 
 ---
