@@ -25,7 +25,7 @@ Completed  UI/UX Design at TBC Campus.
 
 [BUILDY](https://github.com/ninikurshavishvili/BUILDY) – Construction Delivery App (TBC IT Academy final project)
 
-[NextNFT](https://github.com/ninikurshavishvili/NextNFT) - NFT App (in progress)
+[NextNFT](https://github.com/ninikurshavishvili/NextNFT) - NFT App
 
 [Crypto Portfolio App](https://github.com/ninikurshavishvili/MyCryptoApp.git) - SwiftUI-based cryptocurrency portfolio application
 
