@@ -24,6 +24,7 @@ Completed  UI/UX Design at TBC Campus.
 ---
 
 ### Projects
+[GitInsight](https://github.com/ninikurshavishvili/GitInsight) – New GitHub helper App in Proggress
 
 [Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit) – Notes, examples & prep for iOS interviews  
 
