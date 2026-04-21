@@ -4,18 +4,6 @@
   <i>Hi, I'm a junior iOS developer, working on my own individual applications, using MVVM + clean architecture and Swift best practices. I'm open to work with teams on interesting projects.. </i>
 </p>
 
-
-
-
-
-
-
-
----
-
-
-
-
 Completed iOS Development course at TBC IT Academy.
 
 Completed  UI/UX Design at TBC Campus.
