@@ -3,7 +3,7 @@
 <p align="leading">
   <i> </i>
 </p>
-Mobile Developer w 2 years of comercial experience
+
 
 Completed iOS Development course at TBC IT Academy.
 
