@@ -9,8 +9,6 @@ Completed iOS Development course at TBC IT Academy.
 Completed  UI/UX Design at TBC Campus.
 
 
-
-
 ------
 
 ### Projects
