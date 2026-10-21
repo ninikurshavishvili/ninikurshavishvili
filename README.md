@@ -17,7 +17,7 @@
 
 [NextNFT](https://github.com/ninikurshavishvili/NextNFT) - NFT App
 
-[Crypto Portfolio App](https://github.com/ninikurshavishvili/MyCryptoApp.git) - SwiftUI-based cryptocurrency portfolio application
+
 
 
 
