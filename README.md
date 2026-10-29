@@ -8,14 +8,10 @@
 
 ------
 
-### Projects
-[GitInsight](https://github.com/ninikurshavishvili/GitInsight) – New GitHub helper App in Proggress
+### New Projects
+[RouteReplay](https://github.com/ninikurshavishvili/RouteReplay) - 
 
-[Swift Interview Kit](https://github.com/ninikurshavishvili/Swift-Interview-Kit) – Notes, examples & prep for iOS interviews  
 
-[BUILDY](https://github.com/ninikurshavishvili/BUILDY) – Construction Delivery App (TBC IT Academy final project)
-
-[NextNFT](https://github.com/ninikurshavishvili/NextNFT) - NFT App
 
 
 
